@@ -1,4 +1,1 @@
 value: 成龙
-spring:
-  profiles:
-    active: dev
